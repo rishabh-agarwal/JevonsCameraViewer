@@ -8,7 +8,7 @@ It uses the AForge.net and EmguCV's openCV wrapper for obtaining the USB video s
 [![Overview](http://img.youtube.com/vi/Mp8Z6vDXkm8/0.jpg)](http://www.youtube.com/watch?v=Mp8Z6vDXkm8 "Camera Viewer")
 
 
-Build Instructions:
+Build Instruction:
 Requirements: 
 a pc running windows 10 64bit edition with an Nvidia CUDA compatable g-card and at least two USB ports
 
